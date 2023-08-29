@@ -115,9 +115,7 @@ Finally, the code generates sensitivity analysis plots as follows-
 10. The second block of code creates a single plot that combines NPV changes for all variables. It loops through the variables and creates a line plot for each variable's NPV changes, using labels for the legend.
 11. plt. legend() adds a legend to the plot, indicating which line corresponds to each variable.
 
-The rest of the code is similar to the first subplot grid, adding a horizontal dashed line, setting labels and title, and adding a grid.
-Finally, plt.tight_layout() is called again to adjust the layout of the combined plot.
-These plots help visualize how changes in each variable impact the project's NPV, aiding in decision-making and understanding the sensitivity of the NPV to different factors.
+
 
                 # Plot the Sensitivity graph
                 plt.figure(figsize=(12, 8))
