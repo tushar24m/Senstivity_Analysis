@@ -1,4 +1,4 @@
-# Tushar_C
+# Sensitivity_Analysis
 The goal of this program is to conduct a sensitivity analysis on a given financial model. This model evaluates the Net Present Value (NPV) of an investment considering various parameters. 
 The analysis helps understand how changes in these parameters impact the NPV, allowing for informed decision-making in investment planning.
 
